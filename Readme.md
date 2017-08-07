@@ -1,5 +1,5 @@
-#作业
-[![Build Status](https://travis-ci.org/patrick-fullstack/homework1.svg?branch=master)]
+# 作业
+![Build Status](https://travis-ci.org/patrick-fullstack/homework1.svg?branch=master)
 ### 步骤
 
 * fork 代码
