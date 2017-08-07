@@ -1,5 +1,6 @@
 # 作业
 ![Build Status](https://travis-ci.org/patrick-fullstack/homework1.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/patrick-fullstack/homework1/badge.svg?branch=master)](https://coveralls.io/github/patrick-fullstack/homework1?branch=master)
 ### 步骤
 
 * fork 代码
